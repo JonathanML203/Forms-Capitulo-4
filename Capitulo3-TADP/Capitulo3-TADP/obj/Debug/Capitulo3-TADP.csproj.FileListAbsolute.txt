@@ -1,0 +1,15 @@
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\bin\Debug\Capitulo3-TADP.exe.config
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\bin\Debug\Capitulo3-TADP.exe
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\bin\Debug\Capitulo3-TADP.pdb
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3-TADP.csproj.AssemblyReference.cache
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3_TADP.Form1.resources
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3_TADP.Properties.Resources.resources
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3-TADP.csproj.GenerateResource.cache
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3-TADP.csproj.CoreCompileInputs.cache
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3-TADP.exe
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3-TADP.pdb
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3_TADP.Prac1.resources
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3_TADP.Prac2.resources
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3_TADP.Prac3.resources
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3_TADP.Prac4.resources
+D:\source\repos\Capitulo3-TADP\Capitulo3-TADP\obj\Debug\Capitulo3_TADP.Prac5.resources
